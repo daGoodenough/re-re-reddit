@@ -1,0 +1,15 @@
+#post-name {
+  margin-bottom: 10px;
+}
+
+.edit {
+  display: none;
+}
+
+.editing .edit {
+  display: block;
+}
+
+.editing .post-text {
+  display: none;
+}
